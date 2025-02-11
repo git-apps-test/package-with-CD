@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67ab23a23540945d40990a47_8023f8e6-de18-4a01-b24b-d3f7d552f47f",
+  "moduleUUID": "d672ebf4-a8a1-487a-bc5d-c08b853c4e10",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "10",
+            "id": "kxqntorlbg",
+            "label": "input1",
+            "propertyName": "inputs.input1"
+          }
+        ],
+        "id": "fcvqcflojb",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}
